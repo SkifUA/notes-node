@@ -1,0 +1,6 @@
+.idea
+greetings.txt
+node_modules/
+package-lock.json
+playground/notes.json
+notes-data.json
