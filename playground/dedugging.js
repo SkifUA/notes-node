@@ -15,3 +15,6 @@ console.log(person);
 // use n for next
 // use c for continue
 // use repl for debug vars
+
+// for start debug with Chrome tape:
+// node --inspect-rbk <file>
