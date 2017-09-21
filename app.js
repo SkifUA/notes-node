@@ -6,6 +6,8 @@ const _ = require ('lodash');
 const yargs = require('yargs');
 const notes = require('./notes.js');
 
+// example note = { title: 'secret', body: 'text body'}
+// example tape: node app.js add --title=secret --body="text body"
 
 var argv = yargs.argv;
 var command = argv._[0];
